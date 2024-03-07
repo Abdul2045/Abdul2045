@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdul2045
-- 👀 I’m interested in ..machine learninig .
+- 👀 I’m interested in ..Data Science 
 - 🌱 I’m currently learning machine learning...
 - 
 
